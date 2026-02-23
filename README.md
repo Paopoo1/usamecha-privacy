@@ -37,4 +37,4 @@ Rabbit vs Mecha Calculation Game（以下「本アプリ」）は、ユーザー
 本ポリシーに関するお問い合わせは以下までお願いします。
 
 Developer: Kazuhiro Takeda  
-Email: your-email@example.com
+Email: nerikeshikun@gmail.com
